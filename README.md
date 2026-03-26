@@ -1,23 +1,25 @@
-TaskZeno – Project Management Dashboard
 
-Overview
-TaskZeno is a modern project management dashboard built using React. It is designed to manage projects, tasks, and employees efficiently with a clean and scalable architecture. The application follows a component-based structure and uses state management for handling data across different modules.
+# TaskZeno - Project Management Dashboard
 
-Project Setup
+## Overview
+This project is a Project Management Dashboard built using React JS. It allows users to manage projects, tasks, and employees with basic CRUD operations and task tracking features.
 
-1.Create the project:
-npm create vite@latest taskzeno
+## Setup Instructions
 
-2.Navigate to the project directory:
-cd taskzeno
+1. Download or extract the project folder.
+2. Open the project folder in a terminal.
+3. Install dependencies:
+   npm install
+4. Run the application:
+   npm run dev
+5. Open in browser:
+   http://localhost:5173
 
-3.Install dependencies:
-npm install
+## Notes
+- node_modules folder is not included
+- Run "npm install" before starting the application
 
-4.Start the development server:
-npm run dev
-
-Screenshots
+## Screenshots
 
 Dashboard
 ![Dashboard](./screenshots/dashboard1.png)
